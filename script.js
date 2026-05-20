@@ -13,7 +13,7 @@ function majElement(){
         narr[el] = (narr[el] || 0) + 1;
 
         if (narr[el] > value) {
-            console.log(el);
+            console.log(el); 
             return; 
         }
 }
