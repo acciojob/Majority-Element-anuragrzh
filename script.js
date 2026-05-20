@@ -14,7 +14,7 @@ function majElement(){
 
         if (narr[el] > value) {
             console.log(el);
-            return;
+            return; 
         }
 }
 	console.log("No Majority Element");
