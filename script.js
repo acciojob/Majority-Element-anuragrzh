@@ -1,6 +1,6 @@
 //your code here
 
-function majElement(n){
+function majElement(){
 	                                                                  
 	let arr=n.split(" ")
 	let value=Math.floor(arr.length/2)
@@ -18,6 +18,6 @@ function majElement(n){
         }
 }
 	console.log("No Majority Element");
-}   
+}    
 let n= prompt()    
 majElement(n) 
