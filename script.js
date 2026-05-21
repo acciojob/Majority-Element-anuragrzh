@@ -1,6 +1,6 @@
 //your code here
 
-function majElement(){
+function majElement(n){
 	                                                                  
 	let arr=n.split(" ")
 	let value=Math.floor(arr.length/2)
